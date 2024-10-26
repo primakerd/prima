@@ -1,0 +1,36 @@
+/* Day mode styling */
+body.day-mode {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+body.day-mode .bi {
+    color: #000000;
+}
+
+.card.day-mode {
+    background-color: #ffffff;
+    color: #000000;
+
+}
+
+/* Night mode styling */
+body.night-mode {
+    background-color: #181818;
+    color: #ffffff;
+}
+
+body.night-mode .bi {
+    color: #ffffff;
+}
+
+.card.night-mode {
+    background-color: #242424;
+    color: #ffffff;
+ 
+}
+/* Additional styles for input groups */
+.input-group-text {
+    background-color: transparent;
+    border: none;
+}
